@@ -1,0 +1,2 @@
+# 2DTowerDefenseGame
+This is a graduation project for METU's Information Technologies Certificate Program. It's a 2D Tower Defense Game that has one level. Player tries to achieve as much rounds as possible while enemies gets stronger and crowded. While doing that player earns experience points, levels up and gets attribute points. Player can use 'Attribute Points' and gets stronger, thus player can survive more rounds.
